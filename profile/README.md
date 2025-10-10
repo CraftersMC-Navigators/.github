@@ -53,7 +53,7 @@ We are a community-first organization, and we welcome anyone who shares our miss
 
 Have a question or want to report a scam? Join our community!
 
-* **Website:** [[Link to your website here](https://craftersmc-navigators.xyz/)
-* **Discord:** [Link to your Discord server here](https://discord.gg/2KgBw4EXgQ)
+* **Website:** [Link to website](https://craftersmc-navigators.xyz/)
+* **Discord:** [Link to Discord server](https://discord.gg/2KgBw4EXgQ)
 
 Let's navigate this world together! 🗺️
