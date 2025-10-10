@@ -26,7 +26,7 @@ Our core mission is to provide a safe and positive experience for every player. 
 
 You can find all of our polished guides and articles on our website:
 
-* **[CraftersMC Navigators Website]([Link to your website here])**
+* **[CraftersMC Navigators Website](https://craftersmc-navigators.xyz/)**
 
 This repository contains the raw Markdown files (`.md`) that make up our guides, including:
 
